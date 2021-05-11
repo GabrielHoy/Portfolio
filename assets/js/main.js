@@ -13,6 +13,10 @@
         document.querySelector('.preloader').style.display = 'none';
     }
     
+    
+    
+    //About me expansion
+    
     let isLearnMoreUp = false;
     let expandAboutbutton = document.getElementById("expandAboutButton");
     

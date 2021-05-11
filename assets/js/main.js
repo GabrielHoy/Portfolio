@@ -13,6 +13,8 @@
         document.querySelector('.preloader').style.display = 'none';
     }
     
+    //Programming language bg swapping
+    
     
     
     //About me expansion
